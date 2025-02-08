@@ -80,13 +80,14 @@ To install and run the apps locally, follow these steps:
 
 ## Future Improvements  
 - **Tracking Feature**: Implement a tracking system for deliveries in future updates.  
-- **Google Play Release**: Plan to release the app on Google Play for wider accessibility.  
+- **Google Play Release**: Plan to release the app on Google Play for wider accessibility.
+
+## Video Overview  
+Check out our short video demonstration of the Symprax project:  
+[Watch the Demo](<https://youtu.be/vU5pJ5CmHEA?si=hnH3EGcHFvzgRxnX>)
 
 ## Contributing  
 Contributions are welcome! If you would like to contribute to the project, please follow these guidelines:  
 - Fork the repository.  
 - Create a new branch for your feature or bug fix.  
 - Submit a pull request with a description of your changes.
-- 
-## Screenshots  
-*(Insert screenshots of the applications here)*
